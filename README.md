@@ -3,11 +3,10 @@
 - 💬 Ask me anything about Frontend
 - 🤩 Favorite Language: php
 - 📫 How to reach me: idrisiarman19@gmail.com 
-- 😄 My website: not available 
 
 ---
 - <a href="https://instagram.com/Mohd_arman_idrisi01"><img src="https://img.shields.io/badge/instagram%20@mohd_arman_idrisi01-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.instagram.com/Mohd_arman_idrisi01/"><img src="https://img.shields.io/badge/facebook%20@armanidrisi06-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+- <a href="https://www.instagram.com/Mohd_arman_idrisi01/"><img src="https://img.shields.io/badge/facebook%20@mohd%20arman%20idrisi-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 - <a href="https://www.instagram.com/Mohd_arman_idrisi01/"><img src="https://img.shields.io/badge/twitter%20Not Available-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 ---
 ### :hammer_and_wrench: Languages and Tools :
