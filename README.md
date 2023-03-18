@@ -26,8 +26,8 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="angular" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="ruby" alt="ruby" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>
