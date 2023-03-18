@@ -9,7 +9,6 @@
 - <a href="https://instagram.com/Mohd_arman_idrisi01"><img src="https://img.shields.io/badge/instagram%20@mohd_arman_idrisi01-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.instagram.com/Mohd_arman_idrisi01/"><img src="https://img.shields.io/badge/facebook%20@armanidrisi06-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 - <a href="https://www.instagram.com/Mohd_arman_idrisi01/"><img src="https://img.shields.io/badge/twitter%20Not Available-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
--
 ---
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
