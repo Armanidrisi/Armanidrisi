@@ -1,8 +1,8 @@
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Frontend
-- 🤩 Favorite Language: php
-- 📫 How to reach me: idrisiarman19@gmail.com 
+## Hi there! 👋 My name is `Arman Idrisi`
+### 👨‍💻 I'm a Web Developer
+
+Welcome to my Github page! I am a passionate developer with a love for all things tech-related. I enjoy working on projects that challenge me and allow me to learn new things. On this page, you will find some of my personal projects, as well as some contributions to open-source projects. 
+
 
 ---
 - <a href="https://instagram.com/Mohd_arman_idrisi01"><img src="https://img.shields.io/badge/instagram%20@mohd_arman_idrisi01-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
