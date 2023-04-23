@@ -38,9 +38,11 @@ Welcome to my Github page! I am a passionate developer with a love for all thing
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite"  alt="sqlite" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="codepen" alt="codepen" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" title="vercel" alt="vercel" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" title="netlify" alt="netlify" width="40" height="40"/>
 
 </div>
 <br>
