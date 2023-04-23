@@ -8,6 +8,8 @@ Welcome to my Github page! I am a passionate developer with a love for all thing
 ### <a href="https://instagram.com/Mohd_arman_idrisi01"><img src="https://img.shields.io/badge/instagram%20@mohd_arman_idrisi01-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 ### <a href="https://youtube.com/Armanidrisi1"><img src="https://img.shields.io/badge/Youtube:%20Arman%20Idrisi%20YT-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 ### <a href="https://twitter.com/Armanidrisi01/"><img src="https://img.shields.io/badge/twitter%20@armanidrisi01-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+### <a href="https://arman-idrisi.netlify.app/"><img height="30px" src="https://img.shields.io/badge/My%20Website-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
