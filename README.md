@@ -16,6 +16,10 @@ Welcome to my Github page! I am a passionate developer with a love for all thing
 
 ---
 
+<img src="https://raw.githubusercontent.com/Armanidrisi/Armanidrisi/main/code.gif" alt="Image"/>
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
