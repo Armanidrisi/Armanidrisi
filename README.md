@@ -59,3 +59,5 @@ Welcome to my Github page! I am a passionate developer with a love for all thing
 [![Arman’s github stats](https://github-readme-stats.vercel.app/api?username=armanidrisi)](https://github.com/Armanidrisi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanidrisi&layout=compact)](https://github.com/Armanidrisi)
+
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=armanidrisi&repo=chatgpt-python-bot)](https://github.com/Armanidrisi/chatgpt-python-bot)
