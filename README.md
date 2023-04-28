@@ -60,4 +60,6 @@ Welcome to my Github page! I am a passionate developer with a love for all thing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanidrisi&layout=compact)](https://github.com/Armanidrisi)
 
+### :space_invader: Top Repo
+
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=armanidrisi&repo=chatgpt-python-bot)](https://github.com/Armanidrisi/chatgpt-python-bot)
