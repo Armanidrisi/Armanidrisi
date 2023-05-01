@@ -24,8 +24,8 @@ Welcome to my Github page! I am a passionate developer with a love for all thing
 
 <div>
 <img src="https://raw.githubusercontent.com/Armanidrisi/Armanidrisi/main/icons/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-<img src="https://github.com/Armanidrisi/Armanidrisi/raw/main/icons/markdown-original.svg" title="Markdown" alt="markdown" width="40" height="40"/>
 <img src="https://github.com/Armanidrisi/Armanidrisi/raw/main/icons/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+<img src="https://github.com/Armanidrisi/Armanidrisi/raw/main/icons/markdown-original.svg" title="Markdown" alt="markdown" width="40" height="40"/>
 <img src="https://github.com/Armanidrisi/Armanidrisi/raw/main/icons/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>
 <img src="https://github.com/Armanidrisi/Armanidrisi/raw/main/icons/tailwindcss-plain.svg" title="tailwindcss" alt="tailwind" width="40" height="40"/>
 <img src="https://github.com/Armanidrisi/Armanidrisi/raw/main/icons/bootstrap-plain-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
