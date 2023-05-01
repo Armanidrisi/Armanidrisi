@@ -1,4 +1,4 @@
-> Hi there! 👋 My name is `Arman Idrisi`
+> Hi there! 👋 My name is `Arman`
 
 > 👨‍💻 I'm a Web Developer
 
