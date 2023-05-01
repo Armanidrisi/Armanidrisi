@@ -1,6 +1,6 @@
-## Hi there! 👋 My name is `Arman Idrisi`
+> Hi there! 👋 My name is `Arman Idrisi`
 
-### 👨‍💻 I'm a Web Developer
+> 👨‍💻 I'm a Web Developer
 
 Welcome to my Github page! I am a passionate developer with a love for all things tech-related. I enjoy working on projects that challenge me and allow me to learn new things. On this page, you will find some of my personal projects, as well as some contributions to open-source projects.
 
