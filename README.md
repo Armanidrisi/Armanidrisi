@@ -50,7 +50,7 @@ Welcome to my Github page! I am a passionate developer with a love for all thing
 <img src="https://github.com/Armanidrisi/Armanidrisi/raw/main/icons/codepen-plain.svg" title="codepen" alt="codepen" width="40" height="40"/>
 <img src="https://github.com/Armanidrisi/Armanidrisi/raw/main/icons/vercel-original.svg" title="vercel" alt="vercel" width="40" height="40"/>
 <img src="https://github.com/Armanidrisi/Armanidrisi/raw/main/icons/netlify-original.svg" title="netlify" alt="netlify" width="40" height="40"/>
-
+<img src="https://github.com/Armanidrisi/Armanidrisi/blob/main/icons/firebase-plain-wordmark.svg" title="Firebase" width="40" height="40"/>
 </div>
 <br>
 
