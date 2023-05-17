@@ -1,0 +1,12 @@
+theme: jekyll-theme-hacker
+
+title: Arman Idrisi
+
+show_downloads: false
+
+include: [README.md]
+
+plugins:
+
+  - jemoji
+
