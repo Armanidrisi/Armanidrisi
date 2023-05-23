@@ -60,11 +60,6 @@ Welcome to my Github page! I am a passionate developer with a love for all thing
 
 [![Arman’s github stats](https://github-readme-stats.vercel.app/api?username=armanidrisi)](https://github.com/Armanidrisi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanidrisi&layout=compact)](https://github.com/Armanidrisi)
-
-
-### LOC
-
 [![Lines of Code](https://api.githubtrends.io/user/svg/Armanidrisi/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://github.com/Armanidrisi)
 
 
