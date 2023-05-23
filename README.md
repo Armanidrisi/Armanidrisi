@@ -62,6 +62,12 @@ Welcome to my Github page! I am a passionate developer with a love for all thing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanidrisi&layout=compact)](https://github.com/Armanidrisi)
 
+
+### LOC
+
+[![Lines of Code](https://api.githubtrends.io/user/svg/Armanidrisi/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://github.com/Armanidrisi)
+
+
 ### :space_invader: Top Repo
 
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=armanidrisi&repo=chatgpt-python-bot)](https://github.com/Armanidrisi/chatgpt-python-bot)
