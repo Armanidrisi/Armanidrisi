@@ -11,7 +11,6 @@ I am web developer passionate about creating efficient and user-friendly website
 * 🚀  I'm currently working on [Small frontend projects](http://github.com/Armanidrisi/frontend-projects)
 * 🧠  I'm learning BUN
 * 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  I Code in My Mobile 😁
 
 ### Skills
 
