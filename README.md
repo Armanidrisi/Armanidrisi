@@ -1,4 +1,5 @@
 ## I Am Batman <<3 🦇
+* Ex-coder. Now exploring new horizons.
 
 ### Socials
 
